@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9809f1b7-5727-49fe-92b9-bc2923a37ff4" name="Changes" comment="" />
+    <list default="true" id="9809f1b7-5727-49fe-92b9-bc2923a37ff4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/GeDTeste3.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeDTeste3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cPnuOVubajsah8I35zGgwkLysU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/gabi1",
+    "git-widget-placeholder": "feature/gabi2",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
